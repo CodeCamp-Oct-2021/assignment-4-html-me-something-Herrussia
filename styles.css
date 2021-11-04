@@ -1,7 +1,7 @@
 /* Write your CSS here! */
 
 body {
-    background-image: url("monsteraHD.jpg");
+    background-image: url("images/Leaves2.jpg");
     background-color: #cccccc;
     margin-top: 8px;
     margin-bottom: 8px;
@@ -17,7 +17,7 @@ body {
 h1 {
     font-size: 100px;
     color: darkgoldenrod;
-    text-shadow: slategray;
+    text-shadow: 1px 1px black;
     text-decoration: underline;
 }
 
@@ -31,7 +31,7 @@ div {
     color:darkgoldenrod;
     font-weight: bolder;
     font-style: oblique;
-    text-shadow: 1px 1px slategray;
+    text-shadow: 1px 1px black;
     font-size: 22px;
 }
 
@@ -41,4 +41,11 @@ div {
 
 #mainHeading {
     color:red
+}
+
+#entity {
+    text-align: center;
+    color:darkgoldenrod;
+    font-weight: bold;
+    font-size: 14px;
 }
